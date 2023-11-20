@@ -1,0 +1,14 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+.App-profile{
+  background-color: aqua;
+  color: black;
+}
+
+h2{
+  display: block;
+  margin-right: 10px
+}
